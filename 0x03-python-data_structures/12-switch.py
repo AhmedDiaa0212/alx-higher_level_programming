@@ -1,6 +1,4 @@
 #!/usr/bin/python3
-#12-switch.py 
-
 
 a = 89
 b = 10
